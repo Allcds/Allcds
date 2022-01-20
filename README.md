@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alcides
 - 👀 I’m interested in DATASCIENCE
-- 🌱 I’m currently learning PYTHON and better setup for may work area.
+- 🌱 I’m currently learning PYTHON and better setup for my work area.
 - 💞️ I’m looking to collaborate on everthing related to PANDAS: slicing, refine, analysis, 
 - 📫 How to reach me: alcidesm@gmail.com
 
